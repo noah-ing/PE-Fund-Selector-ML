@@ -1,0 +1,99 @@
+{
+  "companies": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "sector": "technology",
+      "market_cap": 2890000000000,
+      "revenue": 394328000000,
+      "employees": 164000,
+      "founded": 1976,
+      "headquarters": "Cupertino, CA",
+      "description": "Technology company that designs, manufactures, and markets consumer electronics",
+      "financial_metrics": {
+        "pe_ratio": 29.5,
+        "debt_to_equity": 1.95,
+        "roe": 1.47,
+        "current_ratio": 0.94,
+        "gross_margin": 0.43
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "sector": "technology",
+      "market_cap": 2760000000000,
+      "revenue": 211915000000,
+      "employees": 221000,
+      "founded": 1975,
+      "headquarters": "Redmond, WA",
+      "description": "Technology corporation that produces computer software, consumer electronics, and related services",
+      "financial_metrics": {
+        "pe_ratio": 34.2,
+        "debt_to_equity": 2.03,
+        "roe": 0.47,
+        "current_ratio": 1.77,
+        "gross_margin": 0.69
+      }
+    },
+    {
+      "ticker": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "sector": "energy",
+      "market_cap": 415000000000,
+      "revenue": 413680000000,
+      "employees": 61500,
+      "founded": 1999,
+      "headquarters": "Spring, TX",
+      "description": "Multinational oil and gas corporation",
+      "financial_metrics": {
+        "pe_ratio": 10.8,
+        "debt_to_equity": 0.43,
+        "roe": 0.28,
+        "current_ratio": 1.41,
+        "gross_margin": 0.31
+      }
+    },
+    {
+      "ticker": "JNJ",
+      "name": "Johnson & Johnson",
+      "sector": "healthcare",
+      "market_cap": 385000000000,
+      "revenue": 85159000000,
+      "employees": 152700,
+      "founded": 1886,
+      "headquarters": "New Brunswick, NJ",
+      "description": "Multinational corporation that develops medical devices, pharmaceuticals, and consumer goods",
+      "financial_metrics": {
+        "pe_ratio": 25.3,
+        "debt_to_equity": 0.75,
+        "roe": 0.23,
+        "current_ratio": 1.12,
+        "gross_margin": 0.68
+      }
+    },
+    {
+      "ticker": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "sector": "finance",
+      "market_cap": 520000000000,
+      "revenue": 154792000000,
+      "employees": 293723,
+      "founded": 2000,
+      "headquarters": "New York, NY",
+      "description": "Multinational investment bank and financial services holding company",
+      "financial_metrics": {
+        "pe_ratio": 11.4,
+        "debt_to_equity": 1.58,
+        "roe": 0.15,
+        "current_ratio": 1.0,
+        "gross_margin": 0.98
+      }
+    }
+  ],
+  "metadata": {
+    "last_updated": "2024-10-18T23:45:00Z",
+    "source": "sample_data",
+    "version": "1.0.0"
+  }
+}

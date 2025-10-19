@@ -1,0 +1,89 @@
+{
+  "timestamp": "2024-10-18T23:50:00Z",
+  "companies_screened": 5000,
+  "processing_time_ms": 95.3,
+  "precision_estimate": 0.923,
+  "model_version": "1.0.0",
+  "top_opportunities": [
+    {
+      "ticker": "TECH_CO_1",
+      "company_name": "TechVenture Inc.",
+      "sector": "technology",
+      "deal_probability": 0.924,
+      "sentiment_score": 0.812,
+      "acquisition_score": 0.891,
+      "financial_health": 0.756,
+      "graph_centrality": 0.834,
+      "ensemble_score": 0.887,
+      "confidence": 0.92,
+      "market_cap": 5200000000,
+      "signals_metadata": {
+        "news_sentiment": "positive",
+        "recent_events": ["Q3 earnings beat", "New product launch"],
+        "risk_factors": ["High debt ratio"],
+        "opportunity_drivers": ["Market expansion", "Strong R&D pipeline"],
+        "pe_fit_score": 0.89
+      }
+    },
+    {
+      "ticker": "ENERGY_CORP",
+      "company_name": "GreenEnergy Solutions",
+      "sector": "energy",
+      "deal_probability": 0.896,
+      "sentiment_score": 0.723,
+      "acquisition_score": 0.867,
+      "financial_health": 0.823,
+      "graph_centrality": 0.756,
+      "ensemble_score": 0.852,
+      "confidence": 0.88,
+      "market_cap": 3800000000,
+      "signals_metadata": {
+        "news_sentiment": "positive",
+        "recent_events": ["Strategic partnership", "Government contract"],
+        "risk_factors": ["Regulatory changes"],
+        "opportunity_drivers": ["ESG momentum", "Technology differentiation"],
+        "pe_fit_score": 0.85
+      }
+    },
+    {
+      "ticker": "HEALTH_BIO",
+      "company_name": "BioMed Innovations",
+      "sector": "healthcare",
+      "deal_probability": 0.878,
+      "sentiment_score": 0.689,
+      "acquisition_score": 0.834,
+      "financial_health": 0.792,
+      "graph_centrality": 0.812,
+      "ensemble_score": 0.831,
+      "confidence": 0.85,
+      "market_cap": 2100000000,
+      "signals_metadata": {
+        "news_sentiment": "neutral",
+        "recent_events": ["FDA approval pending", "Clinical trial success"],
+        "risk_factors": ["Competition", "Patent expiry"],
+        "opportunity_drivers": ["Pipeline strength", "Market need"],
+        "pe_fit_score": 0.82
+      }
+    }
+  ],
+  "sector_breakdown": {
+    "technology": 1250,
+    "energy": 800,
+    "healthcare": 950,
+    "finance": 750,
+    "consumer": 650,
+    "industrial": 600
+  },
+  "performance_metrics": {
+    "ml_pipeline_time_ms": 32.4,
+    "gnn_time_ms": 28.7,
+    "xgboost_time_ms": 34.2,
+    "total_processing_time_ms": 95.3,
+    "cache_hit_rate": 0.42
+  },
+  "model_weights": {
+    "ml_pipeline": 0.25,
+    "gnn": 0.35,
+    "xgboost": 0.40
+  }
+}
