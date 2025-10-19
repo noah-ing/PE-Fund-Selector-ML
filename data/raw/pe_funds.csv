@@ -1,0 +1,501 @@
+fund_id,vintage_year,fund_size_mm,sector,geography,manager_track_record,irr_percent,tvpi,dpi,fund_age_years
+FUND_001,2016,183.1,Healthcare,Asia,4,32.7,2.33,0.5,2.3
+FUND_002,2013,258.8,Energy,Europe,1,21.89,2.06,0.95,5.0
+FUND_003,2022,131.0,Technology,Europe,0,14.62,1.38,0.7,6.6
+FUND_004,2020,193.6,Technology,North America,1,25.91,1.65,0.5,5.4
+FUND_005,2017,729.4,Industrials,Europe,2,13.71,1.34,0.63,4.6
+FUND_006,2022,267.7,Technology,North America,0,23.32,1.98,1.38,9.9
+FUND_007,2014,359.5,Industrials,Europe,0,5.0,1.05,0.57,8.9
+FUND_008,2016,100.5,Technology,North America,2,12.22,1.11,0.5,6.6
+FUND_009,2019,1302.9,Healthcare,Europe,0,24.47,1.9,0.9,6.1
+FUND_010,2012,889.3,Technology,Asia,1,29.0,2.74,1.29,6.6
+FUND_011,2016,635.5,Healthcare,North America,1,23.57,1.68,0.5,2.8
+FUND_012,2020,437.1,Industrials,Asia,0,17.7,1.77,0.69,4.6
+FUND_013,2020,247.3,Technology,North America,0,5.0,1.0,0.5,1.4
+FUND_014,2017,333.4,Energy,Asia,0,14.4,1.64,0.74,5.3
+FUND_015,2014,509.6,Healthcare,Europe,0,19.63,1.55,0.59,5.9
+FUND_016,2013,157.6,Industrials,Europe,0,10.72,1.37,0.51,3.0
+FUND_017,2017,179.3,Financial Services,Europe,2,13.8,1.18,0.86,9.7
+FUND_018,2017,100.0,Industrials,Asia,0,28.56,2.24,1.35,9.2
+FUND_019,2012,142.6,Technology,North America,1,20.02,1.57,0.62,7.5
+FUND_020,2015,782.8,Technology,North America,0,22.64,1.74,0.79,5.8
+FUND_021,2014,193.6,Technology,Europe,4,30.19,2.35,1.41,8.8
+FUND_022,2011,195.9,Energy,Europe,0,5.0,1.0,0.5,2.2
+FUND_023,2017,305.6,Technology,Europe,0,19.55,1.8,1.1,8.1
+FUND_024,2021,100.0,Healthcare,Europe,3,31.06,2.26,0.5,2.1
+FUND_025,2023,474.3,Energy,North America,2,31.55,2.34,1.46,8.1
+FUND_026,2015,593.8,Healthcare,Europe,0,16.32,1.65,0.5,3.5
+FUND_027,2011,318.7,Consumer,North America,2,17.6,1.56,1.11,8.9
+FUND_028,2021,777.4,Technology,Europe,0,20.15,1.56,0.98,9.5
+FUND_029,2014,100.0,Technology,North America,0,20.95,1.69,0.5,2.3
+FUND_030,2010,889.4,Industrials,North America,0,27.09,2.34,0.73,5.2
+FUND_031,2021,146.7,Healthcare,North America,0,9.03,1.22,0.86,9.8
+FUND_032,2019,100.0,Industrials,North America,1,15.26,1.34,0.5,5.4
+FUND_033,2015,207.2,Healthcare,Europe,1,8.56,1.26,0.76,8.8
+FUND_034,2022,907.2,Technology,North America,0,10.9,1.39,0.65,6.3
+FUND_035,2021,241.4,Consumer,North America,1,21.01,1.9,0.57,4.4
+FUND_036,2018,127.4,Consumer,North America,2,25.98,1.85,0.5,3.6
+FUND_037,2010,100.0,Industrials,North America,0,10.8,1.15,0.5,2.8
+FUND_038,2020,227.3,Technology,North America,1,26.68,1.95,1.07,7.9
+FUND_039,2020,100.0,Energy,North America,0,22.89,1.82,0.5,4.5
+FUND_040,2019,100.0,Healthcare,Europe,2,34.48,2.58,0.94,5.6
+FUND_041,2021,720.6,Technology,Europe,1,20.06,1.81,0.6,5.4
+FUND_042,2021,617.9,Financial Services,Europe,4,17.38,1.69,0.71,6.2
+FUND_043,2023,223.7,Technology,North America,0,10.98,1.57,0.94,8.8
+FUND_044,2023,176.6,Financial Services,North America,0,8.69,1.32,1.01,9.8
+FUND_045,2023,254.9,Healthcare,Asia,0,28.0,2.12,0.85,4.7
+FUND_046,2012,1266.0,Technology,Europe,0,5.88,1.0,0.5,8.4
+FUND_047,2021,324.9,Energy,North America,0,23.74,1.79,1.19,7.9
+FUND_048,2016,462.6,Consumer,North America,3,14.05,1.4,0.53,6.2
+FUND_049,2013,212.4,Industrials,North America,0,10.52,1.44,0.99,9.6
+FUND_050,2018,255.3,Consumer,North America,0,15.29,1.51,0.5,2.8
+FUND_051,2012,384.9,Industrials,North America,2,13.37,1.29,0.5,2.0
+FUND_052,2014,267.3,Industrials,Europe,0,22.46,1.73,1.0,8.7
+FUND_053,2012,100.0,Consumer,Europe,2,33.01,2.39,0.65,5.0
+FUND_054,2016,599.7,Technology,Europe,0,12.74,1.57,1.09,8.6
+FUND_055,2014,159.1,Healthcare,Europe,1,14.04,1.77,1.04,9.0
+FUND_056,2018,1072.7,Technology,Europe,0,16.69,1.54,0.5,1.6
+FUND_057,2016,395.8,Financial Services,Europe,0,20.83,1.78,1.01,9.0
+FUND_058,2011,257.2,Financial Services,Asia,3,21.77,1.6,0.53,5.0
+FUND_059,2013,332.8,Technology,North America,0,30.1,2.64,0.95,5.6
+FUND_060,2018,226.8,Industrials,North America,1,26.67,1.8,0.91,6.6
+FUND_061,2021,174.1,Financial Services,North America,0,8.02,1.39,0.91,9.3
+FUND_062,2023,283.0,Technology,Europe,0,22.17,1.79,0.5,1.2
+FUND_063,2011,454.6,Energy,Asia,3,31.66,2.21,0.92,5.3
+FUND_064,2019,176.8,Financial Services,North America,0,13.54,1.21,0.63,7.2
+FUND_065,2018,158.3,Technology,Asia,1,19.15,2.19,0.97,7.5
+FUND_066,2019,190.8,Industrials,North America,4,17.78,1.68,0.94,7.2
+FUND_067,2014,476.5,Technology,Asia,1,17.44,1.63,0.5,2.2
+FUND_068,2011,676.4,Financial Services,North America,4,10.15,1.43,0.51,3.7
+FUND_069,2013,315.3,Financial Services,North America,0,6.87,1.0,0.5,4.2
+FUND_070,2021,367.6,Financial Services,North America,0,18.12,1.66,0.88,8.2
+FUND_071,2021,157.5,Healthcare,North America,0,29.11,2.22,0.52,3.5
+FUND_072,2016,452.0,Consumer,North America,1,13.09,1.3,0.5,2.9
+FUND_073,2021,360.0,Consumer,North America,5,18.86,1.93,1.22,9.6
+FUND_074,2022,148.8,Healthcare,Europe,0,29.61,2.19,0.5,1.1
+FUND_075,2017,100.0,Consumer,Europe,1,8.13,1.0,0.68,10.0
+FUND_076,2012,104.1,Technology,North America,0,5.71,1.0,0.5,7.1
+FUND_077,2023,153.2,Energy,Europe,1,7.87,1.19,0.63,8.5
+FUND_078,2010,551.9,Technology,Europe,0,12.7,1.21,0.5,3.7
+FUND_079,2013,725.6,Technology,North America,5,12.52,1.21,0.5,1.1
+FUND_080,2011,179.9,Technology,North America,1,19.48,1.61,0.9,7.6
+FUND_081,2017,183.9,Industrials,North America,0,23.59,2.17,1.29,8.5
+FUND_082,2013,293.9,Healthcare,North America,0,6.71,1.0,0.5,7.7
+FUND_083,2011,246.8,Industrials,Europe,0,15.7,1.82,0.5,2.3
+FUND_084,2023,469.5,Technology,North America,0,22.17,1.74,0.99,7.8
+FUND_085,2015,169.7,Healthcare,Europe,0,15.33,1.58,0.81,7.9
+FUND_086,2015,475.5,Energy,Europe,2,17.49,1.54,0.83,6.9
+FUND_087,2019,207.0,Consumer,North America,1,19.58,1.88,1.09,7.9
+FUND_088,2013,444.9,Healthcare,Europe,1,11.0,1.08,0.57,8.6
+FUND_089,2015,202.4,Industrials,North America,0,27.99,2.3,1.04,6.5
+FUND_090,2022,159.3,Consumer,Asia,2,30.48,2.3,0.5,1.8
+FUND_091,2011,933.2,Industrials,North America,1,27.02,1.97,1.01,5.4
+FUND_092,2019,515.8,Technology,Europe,0,26.11,2.02,0.5,1.7
+FUND_093,2021,100.0,Technology,Europe,1,6.9,1.4,0.5,4.7
+FUND_094,2011,179.0,Consumer,North America,1,25.41,2.05,0.72,4.7
+FUND_095,2019,568.8,Technology,Europe,0,23.24,1.77,0.5,1.6
+FUND_096,2023,105.9,Consumer,Asia,0,5.21,1.0,0.5,4.1
+FUND_097,2013,419.7,Energy,Europe,0,11.28,1.42,0.5,2.0
+FUND_098,2023,390.3,Financial Services,Europe,0,18.71,1.72,1.08,8.3
+FUND_099,2017,150.0,Consumer,Asia,4,35.0,2.64,,9.5
+FUND_100,2023,243.2,Financial Services,North America,2,26.3,1.77,0.5,1.7
+FUND_101,2016,100.0,Healthcare,North America,1,11.58,1.09,0.61,9.6
+FUND_102,2021,845.0,Consumer,Europe,0,29.06,2.43,1.12,5.7
+FUND_103,2018,197.1,Healthcare,North America,0,17.35,1.68,0.5,3.7
+FUND_104,2023,429.5,Healthcare,Europe,1,15.45,1.63,0.5,1.7
+FUND_105,2017,376.0,Industrials,Asia,1,15.88,1.35,0.5,5.5
+FUND_106,2014,633.0,Consumer,North America,0,5.0,1.0,0.65,8.2
+FUND_107,2022,180.7,Financial Services,North America,1,18.12,1.85,0.93,7.4
+FUND_108,2011,282.2,Consumer,Europe,2,22.48,2.08,0.5,1.5
+FUND_109,2014,361.9,Healthcare,North America,0,13.92,1.23,,1.7
+FUND_110,2017,450.7,Healthcare,Europe,0,19.36,1.46,0.59,4.6
+FUND_111,2019,549.0,Industrials,North America,2,12.08,1.33,,3.7
+FUND_112,2018,175.2,Technology,Europe,0,16.87,1.43,0.5,3.1
+FUND_113,2021,153.7,Technology,North America,0,21.53,1.66,,3.5
+FUND_114,2021,634.0,Healthcare,Europe,0,17.52,1.38,0.81,8.2
+FUND_115,2021,100.0,Technology,North America,0,6.16,1.0,0.78,9.4
+FUND_116,2022,734.4,Technology,Europe,2,17.49,1.39,0.51,4.6
+FUND_117,2018,198.0,Technology,North America,1,33.92,2.23,1.27,9.2
+FUND_118,2022,243.9,Technology,Europe,0,14.06,1.51,0.59,3.9
+FUND_119,2022,151.8,Technology,Asia,3,24.63,1.97,0.73,5.3
+FUND_120,2010,236.6,Financial Services,North America,3,21.31,1.91,0.5,3.0
+FUND_121,2018,595.7,Healthcare,North America,3,34.05,2.12,0.87,6.8
+FUND_122,2016,419.7,Healthcare,North America,0,27.32,2.12,1.51,9.8
+FUND_123,2018,345.5,Industrials,Europe,0,21.46,2.24,1.12,6.4
+FUND_124,2017,260.4,Technology,Europe,5,17.71,1.56,0.65,4.2
+FUND_125,2010,100.0,Financial Services,Europe,2,22.37,2.03,1.11,6.8
+FUND_126,2021,135.5,Consumer,North America,0,21.04,1.97,0.5,2.1
+FUND_127,2017,192.4,Technology,North America,0,13.41,1.59,0.85,9.0
+FUND_128,2017,337.1,Healthcare,Europe,0,9.04,1.24,0.5,5.5
+FUND_129,2020,256.9,Consumer,North America,3,34.64,2.6,0.86,5.0
+FUND_130,2012,487.1,Financial Services,Asia,1,17.59,1.77,0.8,6.3
+FUND_131,2010,340.9,Healthcare,North America,1,31.42,2.45,1.01,6.6
+FUND_132,2017,254.2,Industrials,Europe,0,22.98,1.68,0.5,1.6
+FUND_133,2012,1203.6,Technology,North America,1,23.76,1.6,0.75,7.1
+FUND_134,2012,325.2,Financial Services,North America,2,24.12,1.65,0.5,3.2
+FUND_135,2010,180.8,Technology,Europe,0,6.8,1.04,0.5,7.4
+FUND_136,2020,899.6,Financial Services,Europe,2,21.15,1.93,1.12,8.4
+FUND_137,2014,567.0,Industrials,Asia,5,35.0,2.28,1.34,8.2
+FUND_138,2019,872.4,Industrials,North America,0,21.45,2.01,0.59,6.0
+FUND_139,2016,226.4,Energy,North America,1,16.73,1.49,0.5,5.7
+FUND_140,2019,484.6,Technology,Europe,0,31.7,2.24,0.5,2.3
+FUND_141,2018,100.0,Technology,Europe,2,19.52,1.56,0.85,8.0
+FUND_142,2021,423.6,Technology,North America,1,15.54,1.15,0.5,3.4
+FUND_143,2016,219.1,Technology,North America,1,21.73,1.88,0.65,5.5
+FUND_144,2018,100.0,Consumer,North America,2,25.63,2.37,0.59,3.6
+FUND_145,2017,504.1,Healthcare,Asia,0,5.0,1.0,0.5,2.2
+FUND_146,2021,100.0,Technology,North America,3,25.78,1.67,0.71,6.7
+FUND_147,2011,100.0,Financial Services,North America,1,25.48,2.18,0.5,1.5
+FUND_148,2010,315.4,Consumer,North America,0,14.34,1.14,0.64,7.7
+FUND_149,2016,365.0,Financial Services,North America,1,27.86,1.9,0.57,3.9
+FUND_150,2016,482.7,Financial Services,North America,2,25.63,1.98,0.5,1.0
+FUND_151,2023,411.3,Technology,Europe,0,35.0,2.52,1.2,5.6
+FUND_152,2017,687.9,Healthcare,North America,2,14.0,1.25,0.5,1.4
+FUND_153,2014,399.5,Consumer,Europe,3,26.65,2.03,0.5,3.5
+FUND_154,2012,223.0,Industrials,North America,0,7.86,1.29,0.74,7.4
+FUND_155,2021,232.4,Technology,Europe,5,12.58,1.55,0.5,1.6
+FUND_156,2017,200.8,Consumer,Asia,0,5.0,1.25,0.76,8.6
+FUND_157,2015,300.9,Technology,Europe,0,22.31,2.25,0.5,1.0
+FUND_158,2020,113.5,Technology,Europe,0,19.47,1.89,0.5,3.2
+FUND_159,2012,310.6,Energy,North America,3,14.67,1.44,0.74,7.7
+FUND_160,2010,230.3,Energy,North America,1,5.0,1.17,0.5,3.8
+FUND_161,2012,296.8,Energy,Europe,0,7.48,1.22,0.5,1.9
+FUND_162,2014,297.4,Technology,Asia,0,20.03,1.85,0.56,4.2
+FUND_163,2023,100.0,Consumer,Europe,1,23.35,1.95,0.5,3.4
+FUND_164,2012,130.2,Technology,Europe,0,17.87,1.46,1.05,8.6
+FUND_165,2010,226.8,Technology,Europe,3,24.52,1.77,,3.8
+FUND_166,2014,235.4,Consumer,North America,2,16.49,1.56,0.85,8.1
+FUND_167,2019,293.4,Financial Services,North America,1,32.99,2.43,1.55,9.0
+FUND_168,2016,302.4,Consumer,Europe,5,14.85,1.36,0.52,4.9
+FUND_169,2023,707.2,Consumer,Asia,0,11.91,1.43,0.83,9.2
+FUND_170,2016,304.5,Industrials,North America,5,19.56,2.14,0.77,4.4
+FUND_171,2020,196.5,Energy,Europe,1,18.84,1.34,,9.7
+FUND_172,2018,100.0,Technology,North America,1,12.19,1.48,0.5,1.8
+FUND_173,2019,100.0,Healthcare,Europe,0,17.09,1.59,0.86,7.2
+FUND_174,2019,356.0,Healthcare,North America,3,22.82,1.98,0.86,5.4
+FUND_175,2021,514.0,Technology,North America,0,13.45,1.34,0.5,4.5
+FUND_176,2022,719.8,Industrials,Europe,0,17.64,1.6,1.02,6.7
+FUND_177,2012,137.1,Healthcare,North America,0,8.94,1.22,0.54,7.3
+FUND_178,2016,197.8,Technology,Europe,1,10.56,1.22,0.5,1.0
+FUND_179,2010,289.9,Technology,Europe,1,20.3,1.46,0.5,2.5
+FUND_180,2013,1025.7,Industrials,Asia,1,5.22,1.0,0.5,7.4
+FUND_181,2022,265.2,Technology,North America,3,6.34,1.0,0.5,7.0
+FUND_182,2013,724.8,Consumer,North America,0,20.76,1.92,,9.7
+FUND_183,2023,275.6,Healthcare,North America,1,26.89,1.72,0.79,7.8
+FUND_184,2014,548.5,Healthcare,Asia,0,14.27,1.67,0.95,9.6
+FUND_185,2016,502.0,Energy,Asia,2,12.66,1.47,0.69,7.3
+FUND_186,2016,274.9,Consumer,Europe,2,26.54,2.16,0.67,3.7
+FUND_187,2022,119.8,Healthcare,Europe,1,8.34,1.0,0.5,1.9
+FUND_188,2020,202.7,Industrials,Europe,1,5.59,1.0,0.72,8.0
+FUND_189,2022,693.9,Energy,Europe,0,18.66,1.91,1.03,6.8
+FUND_190,2013,452.4,Technology,North America,0,19.07,1.6,0.5,1.4
+FUND_191,2022,180.6,Consumer,Europe,2,27.02,1.89,0.59,4.2
+FUND_192,2016,192.6,Consumer,North America,0,5.0,1.0,0.7,9.6
+FUND_193,2020,100.0,Industrials,Europe,0,5.0,1.0,,5.5
+FUND_194,2012,672.5,Consumer,Europe,1,17.11,1.44,,4.9
+FUND_195,2015,455.0,Consumer,Europe,2,21.84,2.09,0.72,5.1
+FUND_196,2021,222.3,Industrials,North America,0,22.78,1.88,0.5,2.9
+FUND_197,2011,281.5,Consumer,North America,0,17.9,1.53,0.5,4.3
+FUND_198,2019,100.0,Industrials,North America,1,18.82,1.43,0.54,4.3
+FUND_199,2022,174.0,Industrials,North America,2,15.88,1.64,0.5,1.5
+FUND_200,2023,622.7,Industrials,North America,0,28.73,2.28,1.26,7.9
+FUND_201,2018,486.4,Consumer,Asia,0,8.68,1.03,0.5,4.7
+FUND_202,2014,308.4,Technology,Europe,0,20.87,1.35,0.71,8.4
+FUND_203,2015,242.2,Consumer,North America,0,8.6,1.26,0.66,8.7
+FUND_204,2021,427.3,Consumer,North America,0,20.78,1.75,0.5,2.9
+FUND_205,2021,200.9,Technology,North America,2,13.7,1.5,0.86,6.9
+FUND_206,2021,100.0,Consumer,Europe,1,22.95,2.29,0.72,5.3
+FUND_207,2021,243.6,Technology,Europe,1,20.4,1.76,0.84,8.9
+FUND_208,2013,324.5,Healthcare,Asia,0,31.96,2.25,0.5,2.9
+FUND_209,2023,536.9,Industrials,North America,2,16.75,1.36,0.79,7.1
+FUND_210,2023,100.0,Technology,Asia,0,23.4,1.86,,6.5
+FUND_211,2020,224.5,Consumer,Asia,5,18.76,1.72,0.5,3.7
+FUND_212,2019,232.1,Consumer,North America,1,15.7,1.55,0.5,2.2
+FUND_213,2016,113.2,Energy,Asia,0,15.85,1.89,,6.9
+FUND_214,2021,344.3,Technology,North America,1,8.28,1.26,0.54,7.6
+FUND_215,2018,412.9,Technology,Europe,0,6.66,1.06,0.5,3.8
+FUND_216,2016,199.6,Industrials,North America,1,22.3,1.72,0.85,6.8
+FUND_217,2023,1031.3,Financial Services,Asia,0,17.33,1.67,0.65,4.6
+FUND_218,2010,195.7,Industrials,Asia,0,12.26,1.18,0.55,7.4
+FUND_219,2010,179.0,Technology,Europe,2,15.1,1.54,0.5,2.8
+FUND_220,2018,175.4,Industrials,Europe,0,9.41,1.32,0.87,9.0
+FUND_221,2020,138.3,Energy,North America,2,17.9,1.6,0.5,3.6
+FUND_222,2023,165.5,Consumer,North America,0,20.06,1.63,0.67,4.3
+FUND_223,2018,100.0,Technology,North America,1,5.0,1.0,0.5,1.5
+FUND_224,2013,214.0,Consumer,North America,1,29.3,2.44,0.5,2.0
+FUND_225,2022,254.7,Energy,Europe,1,25.23,2.09,0.8,5.6
+FUND_226,2018,100.0,Financial Services,North America,0,5.0,1.09,0.5,3.4
+FUND_227,2012,227.8,Healthcare,Asia,0,26.69,1.77,1.02,8.5
+FUND_228,2016,252.0,Industrials,Europe,0,23.44,2.2,0.5,1.1
+FUND_229,2015,350.8,Financial Services,Europe,0,16.5,1.48,0.64,4.4
+FUND_230,2017,568.6,Technology,North America,1,10.12,1.2,0.5,4.0
+FUND_231,2020,444.1,Financial Services,Asia,4,32.62,2.17,0.5,1.2
+FUND_232,2018,158.5,Industrials,Asia,3,19.57,1.37,0.5,2.1
+FUND_233,2023,146.1,Technology,North America,2,26.39,2.3,0.76,4.7
+FUND_234,2014,367.1,Healthcare,Europe,2,35.0,2.76,1.03,5.4
+FUND_235,2010,166.8,Industrials,Europe,1,18.51,1.64,0.63,4.6
+FUND_236,2012,103.6,Technology,North America,0,11.66,1.2,0.5,5.8
+FUND_237,2019,1289.4,Energy,Europe,3,14.81,1.42,0.64,6.4
+FUND_238,2021,196.9,Healthcare,North America,1,12.18,1.29,0.5,1.1
+FUND_239,2017,157.8,Industrials,North America,1,20.97,1.56,0.5,5.2
+FUND_240,2020,100.0,Technology,North America,0,12.55,1.32,0.89,9.7
+FUND_241,2015,444.1,Consumer,North America,0,12.72,1.42,0.65,5.7
+FUND_242,2017,122.5,Financial Services,North America,0,7.22,1.31,0.87,7.1
+FUND_243,2018,249.6,Financial Services,North America,2,19.44,1.73,,3.8
+FUND_244,2013,482.0,Industrials,Asia,1,19.91,1.43,0.55,8.0
+FUND_245,2010,123.9,Technology,Europe,0,5.0,1.07,0.59,8.0
+FUND_246,2023,258.7,Consumer,Asia,5,27.08,2.05,0.82,5.7
+FUND_247,2010,711.0,Technology,North America,0,18.63,1.96,1.43,9.8
+FUND_248,2019,100.0,Technology,North America,0,12.88,1.68,0.5,2.1
+FUND_249,2013,138.7,Healthcare,Europe,0,32.23,2.65,0.5,1.2
+FUND_250,2021,129.9,Healthcare,North America,2,27.67,2.02,1.16,7.9
+FUND_251,2023,214.7,Consumer,North America,3,12.23,1.76,1.17,8.3
+FUND_252,2016,236.6,Industrials,Europe,0,21.71,1.91,,2.1
+FUND_253,2011,116.4,Healthcare,North America,2,29.96,2.57,0.63,3.4
+FUND_254,2012,154.8,Technology,Europe,0,19.06,1.6,0.5,1.2
+FUND_255,2010,142.4,Financial Services,Europe,3,23.89,1.88,0.5,3.6
+FUND_256,2014,191.4,Healthcare,North America,2,22.71,1.94,1.0,8.0
+FUND_257,2010,285.1,Healthcare,North America,2,5.0,1.03,0.5,5.7
+FUND_258,2017,462.8,Technology,Europe,0,16.51,1.83,0.5,4.1
+FUND_259,2010,512.2,Consumer,North America,4,20.59,1.73,0.58,4.3
+FUND_260,2020,386.7,Industrials,North America,1,28.94,2.43,0.5,1.0
+FUND_261,2010,132.7,Technology,Asia,0,22.67,2.03,0.5,3.7
+FUND_262,2011,244.1,Technology,North America,2,19.62,1.69,0.99,6.8
+FUND_263,2011,1289.5,Industrials,Europe,0,14.28,1.59,1.02,9.8
+FUND_264,2021,497.8,Industrials,Asia,3,29.69,2.14,1.31,8.6
+FUND_265,2015,179.8,Technology,North America,0,17.52,2.1,0.5,1.2
+FUND_266,2016,740.6,Financial Services,North America,1,13.41,1.0,0.65,9.1
+FUND_267,2014,186.5,Technology,North America,1,18.29,1.8,0.94,8.0
+FUND_268,2010,153.3,Healthcare,North America,0,24.53,1.62,0.76,8.0
+FUND_269,2010,650.0,Financial Services,North America,0,21.47,1.78,0.77,5.1
+FUND_270,2012,100.0,Healthcare,Europe,0,16.35,1.55,0.62,4.6
+FUND_271,2023,100.0,Industrials,North America,0,17.53,1.93,0.5,3.7
+FUND_272,2011,472.9,Healthcare,Europe,0,11.52,1.19,0.5,1.6
+FUND_273,2014,249.5,Technology,Asia,1,19.95,2.01,0.62,3.1
+FUND_274,2021,267.5,Financial Services,Europe,0,11.19,1.07,0.5,3.2
+FUND_275,2019,190.0,Healthcare,Europe,0,13.64,1.7,0.69,5.4
+FUND_276,2015,207.1,Consumer,North America,2,30.27,2.17,1.19,7.7
+FUND_277,2016,177.6,Technology,Europe,0,9.38,1.23,0.52,5.3
+FUND_278,2013,157.9,Technology,Europe,3,16.99,1.53,0.5,1.5
+FUND_279,2016,187.3,Technology,North America,2,11.97,1.6,1.05,9.6
+FUND_280,2020,183.2,Industrials,North America,1,5.73,1.25,0.88,9.5
+FUND_281,2017,137.0,Healthcare,Asia,1,18.01,1.74,0.93,8.1
+FUND_282,2020,167.1,Consumer,North America,3,16.06,1.32,0.88,9.9
+FUND_283,2010,100.0,Healthcare,North America,0,31.09,2.16,0.89,5.9
+FUND_284,2015,395.1,Financial Services,North America,0,15.24,1.31,1.0,9.7
+FUND_285,2017,321.6,Technology,North America,0,29.32,1.77,0.5,1.7
+FUND_286,2014,230.6,Consumer,Europe,2,26.24,2.31,0.77,4.3
+FUND_287,2013,288.9,Consumer,Europe,0,13.83,1.38,0.5,3.0
+FUND_288,2011,296.3,Consumer,Europe,1,33.88,2.38,0.54,2.8
+FUND_289,2015,147.4,Consumer,North America,5,26.15,2.36,0.5,2.3
+FUND_290,2015,168.5,Consumer,North America,2,31.6,2.24,0.86,6.6
+FUND_291,2020,354.2,Industrials,North America,1,28.67,2.02,1.19,8.0
+FUND_292,2010,282.9,Technology,North America,0,22.32,1.82,0.81,6.2
+FUND_293,2018,1022.8,Technology,North America,2,28.01,1.92,,2.3
+FUND_294,2021,760.3,Financial Services,Europe,1,22.99,1.97,1.07,8.3
+FUND_295,2020,470.2,Industrials,North America,0,6.85,1.02,0.55,6.7
+FUND_296,2015,143.6,Consumer,Europe,0,15.96,1.45,0.56,4.5
+FUND_297,2022,164.8,Healthcare,North America,3,30.09,2.14,1.05,7.1
+FUND_298,2012,121.3,Technology,North America,1,32.71,2.36,0.59,3.3
+FUND_299,2013,297.6,Technology,North America,2,16.23,1.58,0.5,4.1
+FUND_300,2021,100.0,Industrials,Asia,3,25.73,1.93,1.17,9.3
+FUND_301,2020,177.5,Healthcare,Europe,1,18.71,1.61,0.5,3.6
+FUND_302,2013,197.4,Technology,Asia,1,20.56,1.76,0.81,5.2
+FUND_303,2012,100.0,Healthcare,North America,0,19.85,1.71,1.08,9.0
+FUND_304,2019,427.7,Technology,North America,0,20.74,1.79,0.78,7.4
+FUND_305,2012,110.2,Energy,Europe,0,17.33,1.48,0.5,1.6
+FUND_306,2012,295.1,Technology,North America,2,33.53,2.63,0.5,2.3
+FUND_307,2013,1717.5,Consumer,Europe,1,23.27,1.93,0.5,1.1
+FUND_308,2016,100.0,Healthcare,North America,3,23.98,1.85,0.94,6.7
+FUND_309,2013,220.5,Healthcare,North America,0,31.92,2.41,0.8,5.0
+FUND_310,2018,184.0,Technology,North America,1,29.38,2.2,0.5,2.2
+FUND_311,2010,160.6,Technology,North America,1,19.76,1.39,0.85,9.6
+FUND_312,2017,416.6,Healthcare,Europe,1,7.76,1.21,0.5,5.8
+FUND_313,2016,530.8,Healthcare,North America,1,10.6,1.08,0.5,3.2
+FUND_314,2011,420.0,Industrials,North America,0,23.47,2.11,0.82,5.5
+FUND_315,2017,147.5,Technology,North America,1,15.46,1.47,0.87,7.1
+FUND_316,2010,1344.4,Industrials,North America,0,7.94,1.3,0.5,1.7
+FUND_317,2020,100.0,Consumer,Europe,0,9.44,1.1,0.5,3.5
+FUND_318,2021,118.8,Consumer,Asia,1,13.5,1.44,0.72,8.3
+FUND_319,2018,275.6,Technology,Asia,1,28.31,2.41,0.86,5.1
+FUND_320,2018,260.5,Healthcare,Europe,4,20.75,1.73,0.65,5.9
+FUND_321,2011,344.3,Technology,North America,1,9.52,1.11,0.5,4.9
+FUND_322,2016,739.6,Technology,Europe,2,21.25,1.94,0.5,1.4
+FUND_323,2023,225.0,Financial Services,North America,1,20.78,1.92,0.5,2.5
+FUND_324,2019,265.0,Technology,North America,1,16.67,1.47,0.5,5.0
+FUND_325,2012,161.4,Healthcare,Europe,0,25.25,1.62,0.5,2.9
+FUND_326,2016,369.4,Industrials,North America,0,12.63,1.26,0.5,1.4
+FUND_327,2021,195.8,Industrials,Asia,0,25.87,2.18,1.25,8.6
+FUND_328,2019,195.7,Energy,North America,0,18.77,1.53,1.1,9.8
+FUND_329,2018,358.0,Technology,Europe,0,25.41,2.02,1.18,8.1
+FUND_330,2013,504.9,Healthcare,Europe,0,7.21,1.0,0.62,8.7
+FUND_331,2021,100.0,Energy,Asia,0,15.79,1.15,0.5,3.2
+FUND_332,2010,315.0,Technology,Europe,5,25.08,1.87,1.38,9.6
+FUND_333,2011,202.5,Healthcare,Europe,0,5.0,1.13,0.5,2.8
+FUND_334,2010,475.0,Technology,North America,0,27.84,1.67,1.12,9.6
+FUND_335,2023,205.4,Technology,Europe,0,11.46,1.37,0.85,10.0
+FUND_336,2021,608.3,Healthcare,North America,1,13.62,1.19,0.62,7.4
+FUND_337,2014,152.4,Technology,Europe,0,9.89,1.37,1.04,9.8
+FUND_338,2014,100.0,Energy,Europe,0,18.61,1.82,0.72,6.1
+FUND_339,2020,510.9,Industrials,Europe,1,5.0,1.0,0.5,3.3
+FUND_340,2016,135.6,Consumer,North America,0,21.44,1.79,0.65,4.9
+FUND_341,2018,100.0,Technology,North America,0,27.36,1.96,0.99,6.3
+FUND_342,2018,247.5,Technology,Europe,0,22.3,1.6,0.5,1.7
+FUND_343,2012,207.0,Technology,North America,0,24.7,2.32,1.16,6.6
+FUND_344,2012,435.4,Industrials,North America,0,22.08,1.68,1.11,9.8
+FUND_345,2012,457.0,Industrials,North America,0,8.4,1.48,,2.7
+FUND_346,2013,261.6,Technology,Asia,2,34.48,2.3,1.24,8.1
+FUND_347,2017,131.7,Financial Services,Europe,1,14.32,1.57,1.09,9.2
+FUND_348,2015,299.1,Technology,North America,1,19.97,1.52,1.13,9.5
+FUND_349,2017,274.7,Energy,North America,0,11.34,1.42,1.01,9.6
+FUND_350,2010,364.4,Industrials,North America,4,25.93,1.98,0.75,5.7
+FUND_351,2017,132.6,Consumer,Europe,0,11.2,1.25,,9.8
+FUND_352,2013,184.9,Industrials,Europe,0,15.54,1.65,1.08,7.8
+FUND_353,2020,349.5,Consumer,North America,1,8.12,1.06,0.5,2.5
+FUND_354,2010,585.9,Healthcare,North America,0,26.32,1.78,0.76,5.3
+FUND_355,2017,481.1,Consumer,North America,0,21.87,2.0,1.08,7.5
+FUND_356,2013,259.2,Technology,Europe,1,17.16,1.38,0.5,3.2
+FUND_357,2015,174.0,Consumer,Europe,3,16.25,1.67,0.65,6.8
+FUND_358,2017,324.6,Energy,North America,1,20.66,1.98,,7.0
+FUND_359,2013,114.0,Consumer,North America,1,12.34,1.29,0.5,2.5
+FUND_360,2023,138.1,Healthcare,North America,5,25.5,2.26,1.14,6.1
+FUND_361,2012,704.0,Industrials,Asia,0,26.29,2.16,1.12,7.9
+FUND_362,2023,324.2,Energy,North America,0,7.51,1.0,0.61,5.5
+FUND_363,2018,191.9,Industrials,Europe,0,17.95,1.93,0.5,1.1
+FUND_364,2012,437.2,Technology,Europe,0,20.53,1.55,0.5,1.1
+FUND_365,2018,602.4,Technology,North America,0,18.22,1.59,0.5,4.2
+FUND_366,2022,179.2,Technology,North America,3,19.47,1.68,1.13,9.3
+FUND_367,2011,181.4,Technology,North America,1,30.22,2.38,,3.1
+FUND_368,2023,166.2,Consumer,Europe,1,12.22,1.58,0.84,6.7
+FUND_369,2011,480.4,Technology,Europe,0,5.0,1.21,0.5,3.0
+FUND_370,2011,483.7,Financial Services,Europe,2,24.62,2.03,0.69,3.9
+FUND_371,2015,645.6,Healthcare,Europe,4,12.39,1.31,0.83,8.6
+FUND_372,2012,495.7,Technology,North America,2,27.54,1.76,0.99,7.6
+FUND_373,2022,100.0,Consumer,Asia,0,28.18,1.9,0.5,1.9
+FUND_374,2018,297.9,Industrials,Europe,1,21.54,2.18,0.65,4.9
+FUND_375,2013,116.6,Healthcare,North America,0,25.57,1.66,0.5,1.3
+FUND_376,2010,170.9,Energy,Asia,0,31.16,2.15,0.82,5.3
+FUND_377,2013,275.7,Industrials,Europe,0,22.73,2.12,0.89,7.0
+FUND_378,2010,439.2,Technology,Europe,1,22.14,1.9,0.5,2.1
+FUND_379,2023,131.2,Financial Services,Europe,1,31.07,2.49,0.73,3.6
+FUND_380,2014,100.0,Financial Services,Europe,0,30.54,2.39,0.69,4.6
+FUND_381,2013,277.7,Industrials,Europe,0,29.15,2.5,1.52,9.3
+FUND_382,2017,1557.0,Technology,North America,0,15.06,1.56,1.06,9.9
+FUND_383,2017,212.3,Industrials,North America,0,5.17,1.14,,1.4
+FUND_384,2016,252.9,Technology,Asia,0,15.57,1.38,0.73,7.8
+FUND_385,2012,851.9,Technology,North America,0,24.63,2.1,0.63,4.3
+FUND_386,2010,369.9,Technology,North America,2,23.27,1.83,0.6,4.5
+FUND_387,2010,284.8,Healthcare,North America,0,15.35,1.43,0.64,7.8
+FUND_388,2021,333.4,Consumer,North America,0,20.98,1.98,1.16,9.3
+FUND_389,2020,291.5,Industrials,Europe,0,5.0,1.18,0.52,9.6
+FUND_390,2012,110.2,Industrials,Asia,4,24.13,2.29,1.09,6.2
+FUND_391,2015,100.0,Healthcare,North America,1,27.45,2.45,0.72,4.2
+FUND_392,2016,916.7,Healthcare,North America,1,22.89,2.08,1.28,8.1
+FUND_393,2015,278.3,Healthcare,North America,0,22.53,1.53,0.5,3.3
+FUND_394,2023,262.5,Financial Services,Asia,1,32.78,2.75,,6.1
+FUND_395,2023,229.7,Technology,Europe,0,17.47,1.81,,4.2
+FUND_396,2015,422.7,Consumer,North America,1,12.78,1.24,0.54,6.9
+FUND_397,2015,1446.8,Energy,Europe,3,27.02,2.25,0.5,3.2
+FUND_398,2022,353.1,Healthcare,Asia,1,28.87,1.99,0.55,2.7
+FUND_399,2012,162.1,Industrials,Europe,3,23.97,2.07,1.48,9.3
+FUND_400,2015,222.9,Healthcare,Asia,1,18.22,1.4,0.5,1.9
+FUND_401,2017,517.9,Consumer,North America,0,16.51,1.41,0.6,5.6
+FUND_402,2020,162.7,Financial Services,Europe,3,10.79,1.43,0.5,3.0
+FUND_403,2020,444.3,Healthcare,North America,0,25.9,2.26,0.5,1.4
+FUND_404,2011,100.0,Technology,Europe,1,28.12,2.22,0.5,1.3
+FUND_405,2014,208.3,Energy,Europe,0,5.0,1.0,0.5,2.6
+FUND_406,2023,379.8,Financial Services,Europe,0,23.44,1.5,0.89,8.8
+FUND_407,2010,595.3,Technology,Europe,0,21.23,1.77,0.5,3.5
+FUND_408,2021,138.0,Industrials,North America,0,7.82,1.25,1.0,9.6
+FUND_409,2010,100.0,Industrials,Europe,0,5.35,1.0,0.53,6.2
+FUND_410,2014,203.9,Industrials,Asia,1,21.49,1.82,0.5,4.9
+FUND_411,2021,111.3,Technology,Asia,0,16.82,1.55,0.68,6.2
+FUND_412,2022,220.5,Industrials,North America,0,30.56,2.21,,5.7
+FUND_413,2012,243.6,Financial Services,North America,1,26.62,2.1,1.13,7.8
+FUND_414,2013,100.0,Technology,North America,0,22.79,1.83,0.52,3.5
+FUND_415,2012,429.7,Technology,Europe,1,23.68,2.22,0.51,4.2
+FUND_416,2010,219.2,Financial Services,Europe,1,28.65,1.74,,9.0
+FUND_417,2010,521.3,Technology,North America,2,28.77,2.08,1.43,9.5
+FUND_418,2021,100.0,Consumer,Europe,1,21.0,1.63,1.1,9.0
+FUND_419,2021,120.1,Healthcare,Europe,0,8.16,1.2,0.5,4.8
+FUND_420,2023,351.3,Technology,Europe,1,35.0,2.52,1.38,8.0
+FUND_421,2022,139.9,Consumer,Europe,0,6.67,1.41,0.51,5.3
+FUND_422,2023,218.1,Healthcare,Europe,0,13.5,1.82,0.77,5.5
+FUND_423,2014,244.8,Energy,Europe,2,5.0,1.0,0.5,2.8
+FUND_424,2015,273.4,Healthcare,North America,0,21.31,1.82,0.7,6.3
+FUND_425,2012,152.3,Energy,Europe,2,17.21,1.65,0.5,2.7
+FUND_426,2021,271.6,Technology,Europe,2,27.12,1.95,0.5,4.0
+FUND_427,2018,141.5,Healthcare,Asia,2,7.09,1.23,0.89,8.7
+FUND_428,2014,392.3,Financial Services,Europe,3,29.9,2.2,0.52,2.9
+FUND_429,2017,225.8,Technology,Europe,0,11.54,1.11,0.5,1.6
+FUND_430,2022,272.7,Industrials,North America,0,14.81,1.43,0.5,1.6
+FUND_431,2010,1478.7,Healthcare,North America,1,25.95,1.85,1.17,9.5
+FUND_432,2023,112.7,Consumer,North America,0,18.59,1.89,0.84,5.6
+FUND_433,2014,646.8,Technology,North America,1,23.16,2.29,0.94,4.7
+FUND_434,2012,100.0,Financial Services,Europe,1,24.39,2.02,1.11,8.3
+FUND_435,2021,100.0,Healthcare,Asia,1,22.93,1.92,1.26,8.5
+FUND_436,2010,102.7,Technology,North America,0,16.27,1.59,0.5,4.0
+FUND_437,2013,107.3,Technology,North America,0,17.67,1.87,0.93,7.2
+FUND_438,2022,282.2,Technology,Europe,0,19.7,1.97,1.24,7.9
+FUND_439,2014,299.7,Energy,North America,0,6.84,1.07,0.51,6.9
+FUND_440,2016,204.7,Healthcare,Europe,3,28.47,2.22,0.5,2.4
+FUND_441,2010,220.3,Consumer,Europe,0,17.81,1.77,1.13,8.9
+FUND_442,2012,354.0,Healthcare,Europe,0,16.6,1.35,0.5,5.9
+FUND_443,2011,438.5,Technology,North America,0,28.54,2.42,0.63,3.5
+FUND_444,2018,100.0,Industrials,North America,1,16.54,1.92,0.59,4.8
+FUND_445,2019,189.9,Industrials,Europe,1,15.04,1.74,0.5,1.3
+FUND_446,2015,233.1,Technology,Europe,0,14.12,1.21,0.5,2.2
+FUND_447,2019,343.7,Technology,North America,0,21.74,1.44,0.74,7.9
+FUND_448,2012,142.5,Technology,Europe,0,20.47,1.92,0.5,1.0
+FUND_449,2017,229.9,Industrials,North America,0,10.67,1.13,0.5,4.7
+FUND_450,2023,249.9,Industrials,Europe,1,15.08,1.56,0.54,5.7
+FUND_451,2017,149.4,Healthcare,North America,1,13.22,1.72,0.5,1.5
+FUND_452,2011,147.0,Consumer,Asia,0,11.86,1.21,0.7,9.8
+FUND_453,2015,262.2,Consumer,North America,0,5.0,1.0,,3.0
+FUND_454,2016,223.4,Energy,North America,5,19.65,1.79,0.5,3.7
+FUND_455,2011,347.4,Consumer,North America,0,5.0,1.0,0.5,3.7
+FUND_456,2020,117.1,Technology,North America,1,16.8,1.44,0.5,3.1
+FUND_457,2019,191.4,Technology,Asia,0,15.1,1.51,0.5,1.0
+FUND_458,2011,208.4,Technology,Asia,0,28.42,2.11,1.21,7.6
+FUND_459,2019,432.6,Technology,North America,0,10.88,1.42,0.89,9.7
+FUND_460,2010,126.7,Energy,North America,1,9.41,1.77,0.5,3.0
+FUND_461,2017,288.4,Financial Services,Europe,4,19.45,1.74,0.74,7.0
+FUND_462,2010,292.1,Technology,Asia,0,15.36,1.35,0.62,7.7
+FUND_463,2018,774.7,Technology,Europe,0,28.95,2.48,1.41,8.6
+FUND_464,2020,120.9,Healthcare,North America,0,7.89,1.0,0.5,4.8
+FUND_465,2015,154.5,Financial Services,North America,0,14.46,1.2,0.5,3.7
+FUND_466,2016,127.0,Healthcare,Europe,0,18.66,1.56,0.5,3.9
+FUND_467,2022,100.0,Energy,North America,0,21.05,1.75,0.82,7.4
+FUND_468,2019,841.6,Technology,Europe,2,17.96,1.52,0.92,8.4
+FUND_469,2016,102.6,Technology,North America,0,5.0,1.0,0.5,2.6
+FUND_470,2019,138.2,Financial Services,Europe,0,15.3,1.57,0.5,4.3
+FUND_471,2012,614.6,Financial Services,North America,3,32.82,2.6,,9.1
+FUND_472,2011,100.0,Technology,Europe,0,20.26,1.78,1.04,8.3
+FUND_473,2018,415.5,Financial Services,North America,4,25.39,1.91,1.3,9.9
+FUND_474,2017,100.0,Industrials,Europe,0,6.5,1.28,0.72,7.8
+FUND_475,2022,585.6,Consumer,North America,3,11.67,1.17,0.53,4.5
+FUND_476,2021,100.0,Healthcare,Europe,1,17.64,1.31,0.58,6.3
+FUND_477,2019,100.0,Energy,Europe,2,5.0,1.24,0.54,6.9
+FUND_478,2016,167.1,Healthcare,Europe,5,29.75,2.47,0.5,1.7
+FUND_479,2018,483.1,Industrials,Europe,0,8.23,1.0,0.5,5.9
+FUND_480,2013,239.4,Technology,Europe,4,23.8,1.86,0.82,7.4
+FUND_481,2022,193.4,Technology,Europe,0,5.0,1.0,0.5,2.5
+FUND_482,2013,627.8,Healthcare,North America,0,13.85,1.51,0.62,8.0
+FUND_483,2010,1106.2,Industrials,Europe,0,5.51,1.37,0.65,6.3
+FUND_484,2017,391.7,Technology,North America,1,5.0,1.14,0.68,9.6
+FUND_485,2023,158.2,Industrials,North America,0,20.33,1.97,0.5,1.4
+FUND_486,2023,182.6,Financial Services,North America,1,32.13,2.52,0.51,3.4
+FUND_487,2021,100.0,Technology,North America,1,29.54,2.23,1.14,6.4
+FUND_488,2012,262.6,Industrials,Europe,2,23.45,2.14,0.55,3.7
+FUND_489,2016,100.0,Healthcare,Europe,2,15.69,1.68,0.95,7.4
+FUND_490,2021,360.1,Consumer,Europe,0,21.95,2.14,1.3,7.8
+FUND_491,2011,996.2,Technology,Europe,0,27.79,2.05,0.5,1.9
+FUND_492,2011,404.4,Industrials,North America,0,17.09,1.26,0.5,5.6
+FUND_493,2016,176.2,Consumer,North America,0,7.03,1.31,0.5,5.6
+FUND_494,2015,353.8,Financial Services,North America,0,13.5,1.5,0.5,4.3
+FUND_495,2012,760.8,Industrials,North America,0,29.62,2.17,1.38,9.4
+FUND_496,2018,734.6,Healthcare,North America,0,16.4,1.52,0.89,8.4
+FUND_497,2019,121.2,Industrials,North America,5,5.0,1.51,0.76,7.3
+FUND_498,2023,349.7,Consumer,Europe,1,5.25,1.0,0.56,7.4
+FUND_499,2022,219.1,Energy,Europe,0,9.6,1.06,0.5,5.2
+FUND_500,2015,430.4,Technology,Asia,1,29.79,2.26,1.45,9.3
