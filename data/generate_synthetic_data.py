@@ -13,7 +13,7 @@ from typing import Tuple
 # Set random seed for reproducibility
 np.random.seed(42)
 
-def generate_fund_data(n_funds: int = 500) -> pd.DataFrame:
+def generate_fund_data(n_funds: int = 5000) -> pd.DataFrame:
     """
     Generate synthetic PE fund data with realistic distributions.
     
@@ -149,7 +149,7 @@ def save_fund_data(df: pd.DataFrame, output_path: str) -> None:
 def main():
     """Main function to generate and save synthetic PE fund data."""
     # Generate data
-    df = generate_fund_data(n_funds=500)
+    df = generate_fund_data(n_funds=5000)
     
     # Define output path
     output_path = os.path.join('data', 'raw', 'pe_funds.csv')

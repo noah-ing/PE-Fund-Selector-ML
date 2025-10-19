@@ -151,9 +151,9 @@ def main():
     with col1:
         st.info(f"**Model Type:** {model_type}")
     with col2:
-        st.info("**Accuracy:** 86%")
+        st.info("**Accuracy:** 87.33%")
     with col3:
-        st.info("**ROC-AUC:** 0.906")
+        st.info("**ROC-AUC:** 0.936")
     
     # Sidebar for inputs
     st.sidebar.header("📊 Fund Characteristics")
@@ -314,9 +314,9 @@ def main():
         This tool uses an advanced ensemble machine learning model to predict whether a PE fund will achieve top-quartile performance.
         
         ### Model Performance
-        - **Accuracy:** 86%
-        - **ROC-AUC:** 0.906
-        - **Precision:** 72%
+        - **Accuracy:** 87.33%
+        - **ROC-AUC:** 0.936
+        - **Precision:** 76%
         - **Recall:** 72%
         
         ### Key Features Used

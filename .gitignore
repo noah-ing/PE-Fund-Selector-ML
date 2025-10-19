@@ -78,3 +78,9 @@ models/*.pkl
 
 # Keep raw data but ignore processed
 data/processed/
+
+# Cline memory bank - keep private
+cline_docs/
+
+# CatBoost temporary files
+catboost_info/
